@@ -1,10 +1,13 @@
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` -> Installation
 
-### Comandline
+### command Line
 `cargo` -> is the package manager
+
 `rustc` -> is the compiler 
+
 `rustup` -> Installs Rust, switches versions, updates
 
+---
 
 `rustc hello.rs` -> compiles the program to file called hello
 
